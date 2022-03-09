@@ -1,0 +1,9 @@
+//export const baseUrl = 'http://192.168.8.101:10/' 
+//export const baseUrl = 'http://172.20.10.9:10/'
+export const baseUrl = 'http://172.20.10.9:5000/'
+export const pcolor = 'gray'
+export const scolor = 'white'
+export const mcolor = '#eb1beb'
+export const bcolor = 'black'
+export const fcolor = 'white'
+//export const baseUrl = 'http://192.168.43.226:10/' 192.168.1.174  172.20.10.9 192.168.8.110 192.168.8.105
